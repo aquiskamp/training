@@ -2,7 +2,7 @@
 
 ![Sync Status](https://github.com/aquiskamp/training/actions/workflows/auto-sync.yml/badge.svg)
 
-**Last successful sync:** 2026-04-30 16:54:22 UTC
+**Last successful sync:** 2026-04-30 18:02:45 UTC
 
 Automated training data pipeline from [Intervals.icu](https://intervals.icu) for AI coaching analysis.
 Built on the [Section 11 Protocol](https://github.com/CrankAddict/section-11).
